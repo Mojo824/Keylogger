@@ -1,0 +1,445 @@
+[2025-06-15 17:41:04] Key.delete released
+ [2025-06-15 17:42:43] key g pressed 
+ [2025-06-15 17:42:43] key h pressed 
+ [2025-06-15 17:42:43] 'g' released
+ [2025-06-15 17:42:43] 'h' released
+ [2025-06-15 17:42:43] special key Key.space pressed 
+ [2025-06-15 17:42:43] Key.space released
+ [2025-06-15 17:42:44] key c pressed 
+ [2025-06-15 17:42:44] key r pressed 
+ [2025-06-15 17:42:44] 'c' released
+ [2025-06-15 17:42:44] key e pressed 
+ [2025-06-15 17:42:44] 'r' released
+ [2025-06-15 17:42:44] 'e' released
+ [2025-06-15 17:42:45] key t pressed 
+ [2025-06-15 17:42:45] 't' released
+ [2025-06-15 17:42:45] key e pressed 
+ [2025-06-15 17:42:45] 'e' released
+ [2025-06-15 17:42:46] special key Key.space pressed 
+ [2025-06-15 17:42:46] Key.space released
+ [2025-06-15 17:42:48] key p pressed 
+ [2025-06-15 17:42:48] 'p' released
+ [2025-06-15 17:42:48] key e pressed 
+ [2025-06-15 17:42:49] 'e' released
+ [2025-06-15 17:42:49] key r pressed 
+ [2025-06-15 17:42:49] 'r' released
+ [2025-06-15 17:42:50] special key Key.backspace pressed 
+ [2025-06-15 17:42:50] Key.backspace released
+ [2025-06-15 17:42:50] special key Key.backspace pressed 
+ [2025-06-15 17:42:50] Key.backspace released
+ [2025-06-15 17:42:50] special key Key.backspace pressed 
+ [2025-06-15 17:42:50] Key.backspace released
+ [2025-06-15 17:42:51] key r pressed 
+ [2025-06-15 17:42:51] key e pressed 
+ [2025-06-15 17:42:51] 'r' released
+ [2025-06-15 17:42:51] 'e' released
+ [2025-06-15 17:42:51] key p pressed 
+ [2025-06-15 17:42:51] 'p' released
+ [2025-06-15 17:42:51] key o pressed 
+ [2025-06-15 17:42:51] 'o' released
+ [2025-06-15 17:42:51] special key Key.space pressed 
+ [2025-06-15 17:42:52] Key.space released
+ [2025-06-15 17:42:54] special key Key.backspace pressed 
+ [2025-06-15 17:42:54] Key.backspace released
+ [2025-06-15 17:42:54] special key Key.backspace pressed 
+ [2025-06-15 17:42:55] special key Key.backspace pressed 
+ [2025-06-15 17:42:55] special key Key.backspace pressed 
+ [2025-06-15 17:42:55] special key Key.backspace pressed 
+ [2025-06-15 17:42:55] special key Key.backspace pressed 
+ [2025-06-15 17:42:55] special key Key.backspace pressed 
+ [2025-06-15 17:42:55] special key Key.backspace pressed 
+ [2025-06-15 17:42:55] special key Key.backspace pressed 
+ [2025-06-15 17:42:55] special key Key.backspace pressed 
+ [2025-06-15 17:42:55] special key Key.backspace pressed 
+ [2025-06-15 17:42:55] special key Key.backspace pressed 
+ [2025-06-15 17:42:55] special key Key.backspace pressed 
+ [2025-06-15 17:42:55] Key.backspace released
+ [2025-06-15 17:42:56] key h pressed 
+ [2025-06-15 17:42:56] special key Key.space pressed 
+ [2025-06-15 17:42:56] 'h' released
+ [2025-06-15 17:42:56] Key.space released
+ [2025-06-15 17:42:56] key r pressed 
+ [2025-06-15 17:42:57] key e pressed 
+ [2025-06-15 17:42:57] 'r' released
+ [2025-06-15 17:42:57] 'e' released
+ [2025-06-15 17:42:57] key p pressed 
+ [2025-06-15 17:42:57] key o pressed 
+ [2025-06-15 17:42:57] 'p' released
+ [2025-06-15 17:42:57] 'o' released
+ [2025-06-15 17:42:58] special key Key.space pressed 
+ [2025-06-15 17:42:58] Key.space released
+ [2025-06-15 17:42:58] key c pressed 
+ [2025-06-15 17:42:58] key r pressed 
+ [2025-06-15 17:42:58] 'c' released
+ [2025-06-15 17:42:58] key e pressed 
+ [2025-06-15 17:42:58] 'r' released
+ [2025-06-15 17:42:58] 'e' released
+ [2025-06-15 17:42:59] key a pressed 
+ [2025-06-15 17:42:59] 'a' released
+ [2025-06-15 17:42:59] key t pressed 
+ [2025-06-15 17:42:59] 't' released
+ [2025-06-15 17:42:59] key e pressed 
+ [2025-06-15 17:43:00] 'e' released
+ [2025-06-15 17:43:00] special key Key.space pressed 
+ [2025-06-15 17:43:00] Key.space released
+ [2025-06-15 17:43:08] special key Key.ctrl pressed 
+ [2025-06-15 17:43:09] special key Key.alt pressed 
+ [2025-06-15 17:43:09] key t pressed 
+ [2025-06-15 17:43:09] 't' released
+ [2025-06-15 17:43:09] Key.alt released
+ [2025-06-15 17:43:09] Key.ctrl released
+ [2025-06-15 17:43:11] key g pressed 
+ [2025-06-15 17:43:11] 'g' released
+ [2025-06-15 17:43:11] key h pressed 
+ [2025-06-15 17:43:11] 'h' released
+ [2025-06-15 17:43:11] special key Key.space pressed 
+ [2025-06-15 17:43:11] Key.space released
+ [2025-06-15 17:43:15] special key Key.up pressed 
+ [2025-06-15 17:43:15] Key.up released
+ [2025-06-15 17:43:15] special key Key.up pressed 
+ [2025-06-15 17:43:15] Key.up released
+ [2025-06-15 17:43:16] special key Key.up pressed 
+ [2025-06-15 17:43:16] Key.up released
+ [2025-06-15 17:43:16] special key Key.up pressed 
+ [2025-06-15 17:43:16] Key.up released
+ [2025-06-15 17:43:16] special key Key.up pressed 
+ [2025-06-15 17:43:16] Key.up released
+ [2025-06-15 17:43:16] special key Key.up pressed 
+ [2025-06-15 17:43:16] Key.up released
+ [2025-06-15 17:43:16] special key Key.up pressed 
+ [2025-06-15 17:43:17] special key Key.up pressed 
+ [2025-06-15 17:43:17] special key Key.up pressed 
+ [2025-06-15 17:43:17] Key.up released
+ [2025-06-15 17:43:17] special key Key.up pressed 
+ [2025-06-15 17:43:17] Key.up released
+ [2025-06-15 17:43:17] special key Key.up pressed 
+ [2025-06-15 17:43:17] Key.up released
+ [2025-06-15 17:43:18] special key Key.up pressed 
+ [2025-06-15 17:43:18] Key.up released
+ [2025-06-15 17:43:18] special key Key.up pressed 
+ [2025-06-15 17:43:18] Key.up released
+ [2025-06-15 17:43:18] special key Key.up pressed 
+ [2025-06-15 17:43:18] Key.up released
+ [2025-06-15 17:43:18] special key Key.up pressed 
+ [2025-06-15 17:43:18] Key.up released
+ [2025-06-15 17:43:19] special key Key.up pressed 
+ [2025-06-15 17:43:19] Key.up released
+ [2025-06-15 17:43:19] special key Key.up pressed 
+ [2025-06-15 17:43:19] Key.up released
+ [2025-06-15 17:43:19] special key Key.up pressed 
+ [2025-06-15 17:43:19] Key.up released
+ [2025-06-15 17:43:19] special key Key.up pressed 
+ [2025-06-15 17:43:19] Key.up released
+ [2025-06-15 17:43:19] special key Key.up pressed 
+ [2025-06-15 17:43:20] Key.up released
+ [2025-06-15 17:43:20] special key Key.up pressed 
+ [2025-06-15 17:43:20] Key.up released
+ [2025-06-15 17:43:20] special key Key.up pressed 
+ [2025-06-15 17:43:20] Key.up released
+ [2025-06-15 17:43:20] special key Key.up pressed 
+ [2025-06-15 17:43:20] Key.up released
+ [2025-06-15 17:43:20] special key Key.up pressed 
+ [2025-06-15 17:43:20] Key.up released
+ [2025-06-15 17:43:21] special key Key.up pressed 
+ [2025-06-15 17:43:21] Key.up released
+ [2025-06-15 17:43:21] special key Key.up pressed 
+ [2025-06-15 17:43:21] Key.up released
+ [2025-06-15 17:43:21] special key Key.up pressed 
+ [2025-06-15 17:43:21] Key.up released
+ [2025-06-15 17:43:22] special key Key.up pressed 
+ [2025-06-15 17:43:22] Key.up released
+ [2025-06-15 17:43:22] special key Key.up pressed 
+ [2025-06-15 17:43:22] Key.up released
+ [2025-06-15 17:43:22] special key Key.up pressed 
+ [2025-06-15 17:43:23] Key.up released
+ [2025-06-15 17:43:23] special key Key.up pressed 
+ [2025-06-15 17:43:23] Key.up released
+ [2025-06-15 17:43:23] special key Key.up pressed 
+ [2025-06-15 17:43:23] Key.up released
+ [2025-06-15 17:43:24] special key Key.up pressed 
+ [2025-06-15 17:43:24] Key.up released
+ [2025-06-15 17:43:24] special key Key.up pressed 
+ [2025-06-15 17:43:24] Key.up released
+ [2025-06-15 17:43:25] special key Key.up pressed 
+ [2025-06-15 17:43:25] Key.up released
+ [2025-06-15 17:43:25] special key Key.up pressed 
+ [2025-06-15 17:43:25] Key.up released
+ [2025-06-15 17:43:26] special key Key.down pressed 
+ [2025-06-15 17:43:26] Key.down released
+ [2025-06-15 17:43:27] special key Key.up pressed 
+ [2025-06-15 17:43:27] Key.up released
+ [2025-06-15 17:43:28] special key Key.up pressed 
+ [2025-06-15 17:43:28] Key.up released
+ [2025-06-15 17:43:28] special key Key.up pressed 
+ [2025-06-15 17:43:28] Key.up released
+ [2025-06-15 17:43:29] special key Key.up pressed 
+ [2025-06-15 17:43:29] Key.up released
+ [2025-06-15 17:43:29] special key Key.up pressed 
+ [2025-06-15 17:43:29] Key.up released
+ [2025-06-15 17:43:29] special key Key.up pressed 
+ [2025-06-15 17:43:30] Key.up released
+ [2025-06-15 17:43:30] special key Key.up pressed 
+ [2025-06-15 17:43:30] Key.up released
+ [2025-06-15 17:43:30] special key Key.up pressed 
+ [2025-06-15 17:43:31] Key.up released
+ [2025-06-15 17:43:31] special key Key.up pressed 
+ [2025-06-15 17:43:31] Key.up released
+ [2025-06-15 17:43:31] special key Key.up pressed 
+ [2025-06-15 17:43:31] Key.up released
+ [2025-06-15 17:43:32] special key Key.up pressed 
+ [2025-06-15 17:43:32] Key.up released
+ [2025-06-15 17:43:32] special key Key.up pressed 
+ [2025-06-15 17:43:32] Key.up released
+ [2025-06-15 17:43:32] special key Key.up pressed 
+ [2025-06-15 17:43:32] Key.up released
+ [2025-06-15 17:43:32] special key Key.up pressed 
+ [2025-06-15 17:43:33] Key.up released
+ [2025-06-15 17:43:33] special key Key.up pressed 
+ [2025-06-15 17:43:33] Key.up released
+ [2025-06-15 17:43:33] special key Key.up pressed 
+ [2025-06-15 17:43:33] Key.up released
+ [2025-06-15 17:43:33] special key Key.up pressed 
+ [2025-06-15 17:43:33] Key.up released
+ [2025-06-15 17:43:34] special key Key.up pressed 
+ [2025-06-15 17:43:34] special key Key.up pressed 
+ [2025-06-15 17:43:34] special key Key.up pressed 
+ [2025-06-15 17:43:34] special key Key.up pressed 
+ [2025-06-15 17:43:34] special key Key.up pressed 
+ [2025-06-15 17:43:34] special key Key.up pressed 
+ [2025-06-15 17:43:34] special key Key.up pressed 
+ [2025-06-15 17:43:34] Key.up released
+ [2025-06-15 17:43:36] special key Key.up pressed 
+ [2025-06-15 17:43:36] Key.up released
+ [2025-06-15 17:43:36] special key Key.up pressed 
+ [2025-06-15 17:43:36] Key.up released
+ [2025-06-15 17:43:36] special key Key.up pressed 
+ [2025-06-15 17:43:36] Key.up released
+ [2025-06-15 17:43:37] special key Key.up pressed 
+ [2025-06-15 17:43:37] Key.up released
+ [2025-06-15 17:43:37] special key Key.up pressed 
+ [2025-06-15 17:43:37] Key.up released
+ [2025-06-15 17:43:37] special key Key.up pressed 
+ [2025-06-15 17:43:38] Key.up released
+ [2025-06-15 17:43:38] special key Key.up pressed 
+ [2025-06-15 17:43:38] Key.up released
+ [2025-06-15 17:43:38] special key Key.up pressed 
+ [2025-06-15 17:43:38] Key.up released
+ [2025-06-15 17:43:38] special key Key.up pressed 
+ [2025-06-15 17:43:38] Key.up released
+ [2025-06-15 17:43:38] special key Key.up pressed 
+ [2025-06-15 17:43:39] Key.up released
+ [2025-06-15 17:43:39] special key Key.up pressed 
+ [2025-06-15 17:43:39] Key.up released
+ [2025-06-15 17:43:39] special key Key.up pressed 
+ [2025-06-15 17:43:39] Key.up released
+ [2025-06-15 17:43:40] special key Key.up pressed 
+ [2025-06-15 17:43:40] Key.up released
+ [2025-06-15 17:43:40] special key Key.up pressed 
+ [2025-06-15 17:43:41] Key.up released
+ [2025-06-15 17:43:41] special key Key.up pressed 
+ [2025-06-15 17:43:41] Key.up released
+ [2025-06-15 17:43:41] special key Key.up pressed 
+ [2025-06-15 17:43:41] Key.up released
+ [2025-06-15 17:43:41] special key Key.up pressed 
+ [2025-06-15 17:43:41] Key.up released
+ [2025-06-15 17:43:42] special key Key.up pressed 
+ [2025-06-15 17:43:42] Key.up released
+ [2025-06-15 17:43:42] special key Key.up pressed 
+ [2025-06-15 17:43:42] Key.up released
+ [2025-06-15 17:43:42] special key Key.up pressed 
+ [2025-06-15 17:43:42] Key.up released
+ [2025-06-15 17:43:43] special key Key.up pressed 
+ [2025-06-15 17:43:43] Key.up released
+ [2025-06-15 17:43:43] special key Key.up pressed 
+ [2025-06-15 17:43:43] Key.up released
+ [2025-06-15 17:43:43] special key Key.up pressed 
+ [2025-06-15 17:43:43] Key.up released
+ [2025-06-15 17:43:43] special key Key.up pressed 
+ [2025-06-15 17:43:44] Key.up released
+ [2025-06-15 17:43:44] special key Key.up pressed 
+ [2025-06-15 17:43:44] Key.up released
+ [2025-06-15 17:43:44] special key Key.up pressed 
+ [2025-06-15 17:43:44] Key.up released
+ [2025-06-15 17:43:44] special key Key.up pressed 
+ [2025-06-15 17:43:44] Key.up released
+ [2025-06-15 17:43:44] special key Key.up pressed 
+ [2025-06-15 17:43:45] Key.up released
+ [2025-06-15 17:43:45] special key Key.up pressed 
+ [2025-06-15 17:43:45] Key.up released
+ [2025-06-15 17:43:45] special key Key.up pressed 
+ [2025-06-15 17:43:45] Key.up released
+ [2025-06-15 17:43:45] special key Key.up pressed 
+ [2025-06-15 17:43:45] Key.up released
+ [2025-06-15 17:43:45] special key Key.up pressed 
+ [2025-06-15 17:43:45] Key.up released
+ [2025-06-15 17:43:46] special key Key.up pressed 
+ [2025-06-15 17:43:46] Key.up released
+ [2025-06-15 17:43:46] special key Key.up pressed 
+ [2025-06-15 17:43:46] Key.up released
+ [2025-06-15 17:43:46] special key Key.up pressed 
+ [2025-06-15 17:43:46] Key.up released
+ [2025-06-15 17:43:46] special key Key.up pressed 
+ [2025-06-15 17:43:46] Key.up released
+ [2025-06-15 17:43:46] special key Key.up pressed 
+ [2025-06-15 17:43:46] Key.up released
+ [2025-06-15 17:43:47] special key Key.up pressed 
+ [2025-06-15 17:43:47] Key.up released
+ [2025-06-15 17:43:47] special key Key.up pressed 
+ [2025-06-15 17:43:47] Key.up released
+ [2025-06-15 17:43:47] special key Key.up pressed 
+ [2025-06-15 17:43:47] Key.up released
+ [2025-06-15 17:43:47] special key Key.up pressed 
+ [2025-06-15 17:43:47] Key.up released
+ [2025-06-15 17:43:48] special key Key.up pressed 
+ [2025-06-15 17:43:48] Key.up released
+ [2025-06-15 17:43:48] special key Key.up pressed 
+ [2025-06-15 17:43:48] Key.up released
+ [2025-06-15 17:43:48] special key Key.up pressed 
+ [2025-06-15 17:43:48] Key.up released
+ [2025-06-15 17:43:48] special key Key.up pressed 
+ [2025-06-15 17:43:48] Key.up released
+ [2025-06-15 17:43:48] special key Key.up pressed 
+ [2025-06-15 17:43:49] Key.up released
+ [2025-06-15 17:43:49] special key Key.up pressed 
+ [2025-06-15 17:43:49] Key.up released
+ [2025-06-15 17:43:49] special key Key.up pressed 
+ [2025-06-15 17:43:49] Key.up released
+ [2025-06-15 17:43:49] special key Key.up pressed 
+ [2025-06-15 17:43:49] Key.up released
+ [2025-06-15 17:43:49] special key Key.up pressed 
+ [2025-06-15 17:43:49] Key.up released
+ [2025-06-15 17:43:50] special key Key.up pressed 
+ [2025-06-15 17:43:50] Key.up released
+ [2025-06-15 17:43:50] special key Key.up pressed 
+ [2025-06-15 17:43:50] Key.up released
+ [2025-06-15 17:43:50] special key Key.up pressed 
+ [2025-06-15 17:43:50] Key.up released
+ [2025-06-15 17:43:50] special key Key.up pressed 
+ [2025-06-15 17:43:50] Key.up released
+ [2025-06-15 17:43:50] special key Key.up pressed 
+ [2025-06-15 17:43:51] Key.up released
+ [2025-06-15 17:43:51] special key Key.up pressed 
+ [2025-06-15 17:43:51] Key.up released
+ [2025-06-15 17:43:51] special key Key.up pressed 
+ [2025-06-15 17:43:51] Key.up released
+ [2025-06-15 17:43:51] special key Key.up pressed 
+ [2025-06-15 17:43:51] Key.up released
+ [2025-06-15 17:43:51] special key Key.up pressed 
+ [2025-06-15 17:43:52] Key.up released
+ [2025-06-15 17:43:52] special key Key.up pressed 
+ [2025-06-15 17:43:52] Key.up released
+ [2025-06-15 17:43:52] special key Key.up pressed 
+ [2025-06-15 17:43:52] Key.up released
+ [2025-06-15 17:43:52] special key Key.up pressed 
+ [2025-06-15 17:43:52] Key.up released
+ [2025-06-15 17:43:52] special key Key.up pressed 
+ [2025-06-15 17:43:53] Key.up released
+ [2025-06-15 17:43:53] special key Key.up pressed 
+ [2025-06-15 17:43:53] Key.up released
+ [2025-06-15 17:43:53] special key Key.up pressed 
+ [2025-06-15 17:43:53] Key.up released
+ [2025-06-15 17:43:53] special key Key.up pressed 
+ [2025-06-15 17:43:53] Key.up released
+ [2025-06-15 17:43:54] special key Key.up pressed 
+ [2025-06-15 17:43:54] Key.up released
+ [2025-06-15 17:43:54] special key Key.up pressed 
+ [2025-06-15 17:43:54] Key.up released
+ [2025-06-15 17:43:54] special key Key.up pressed 
+ [2025-06-15 17:43:55] Key.up released
+ [2025-06-15 17:43:55] special key Key.up pressed 
+ [2025-06-15 17:43:55] Key.up released
+ [2025-06-15 17:43:55] special key Key.up pressed 
+ [2025-06-15 17:43:55] Key.up released
+ [2025-06-15 17:43:56] special key Key.up pressed 
+ [2025-06-15 17:43:56] Key.up released
+ [2025-06-15 17:43:56] special key Key.up pressed 
+ [2025-06-15 17:43:56] Key.up released
+ [2025-06-15 17:43:56] special key Key.up pressed 
+ [2025-06-15 17:43:56] Key.up released
+ [2025-06-15 17:43:57] special key Key.up pressed 
+ [2025-06-15 17:43:57] Key.up released
+ [2025-06-15 17:43:57] special key Key.up pressed 
+ [2025-06-15 17:43:57] Key.up released
+ [2025-06-15 17:43:57] special key Key.up pressed 
+ [2025-06-15 17:43:58] Key.up released
+ [2025-06-15 17:43:58] special key Key.up pressed 
+ [2025-06-15 17:43:58] Key.up released
+ [2025-06-15 17:43:58] special key Key.up pressed 
+ [2025-06-15 17:43:58] Key.up released
+ [2025-06-15 17:43:58] special key Key.up pressed 
+ [2025-06-15 17:43:58] Key.up released
+ [2025-06-15 17:43:59] special key Key.up pressed 
+ [2025-06-15 17:43:59] Key.up released
+ [2025-06-15 17:43:59] special key Key.up pressed 
+ [2025-06-15 17:43:59] Key.up released
+ [2025-06-15 17:43:59] special key Key.up pressed 
+ [2025-06-15 17:43:59] Key.up released
+ [2025-06-15 17:44:00] special key Key.up pressed 
+ [2025-06-15 17:44:00] Key.up released
+ [2025-06-15 17:44:00] special key Key.up pressed 
+ [2025-06-15 17:44:00] Key.up released
+ [2025-06-15 17:44:01] special key Key.up pressed 
+ [2025-06-15 17:44:01] Key.up released
+ [2025-06-15 17:44:01] special key Key.up pressed 
+ [2025-06-15 17:44:01] Key.up released
+ [2025-06-15 17:44:02] special key Key.up pressed 
+ [2025-06-15 17:44:02] Key.up released
+ [2025-06-15 17:44:02] special key Key.up pressed 
+ [2025-06-15 17:44:02] Key.up released
+ [2025-06-15 17:44:02] special key Key.up pressed 
+ [2025-06-15 17:44:03] Key.up released
+ [2025-06-15 17:44:03] special key Key.up pressed 
+ [2025-06-15 17:44:03] Key.up released
+ [2025-06-15 17:44:04] special key Key.backspace pressed 
+ [2025-06-15 17:44:04] Key.backspace released
+ [2025-06-15 17:44:04] special key Key.backspace pressed 
+ [2025-06-15 17:44:04] Key.backspace released
+ [2025-06-15 17:44:04] special key Key.backspace pressed 
+ [2025-06-15 17:44:04] Key.backspace released
+ [2025-06-15 17:44:05] key g pressed 
+ [2025-06-15 17:44:05] key h pressed 
+ [2025-06-15 17:44:05] 'g' released
+ [2025-06-15 17:44:05] 'h' released
+ [2025-06-15 17:44:17] special key Key.shift pressed 
+ [2025-06-15 17:44:17] key K pressed 
+ [2025-06-15 17:44:17] Key.shift released
+ [2025-06-15 17:44:17] 'k' released
+ [2025-06-15 17:44:17] key e pressed 
+ [2025-06-15 17:44:17] 'e' released
+ [2025-06-15 17:44:17] key y pressed 
+ [2025-06-15 17:44:18] 'y' released
+ [2025-06-15 17:44:19] key l pressed 
+ [2025-06-15 17:44:19] 'l' released
+ [2025-06-15 17:44:19] key o pressed 
+ [2025-06-15 17:44:19] 'o' released
+ [2025-06-15 17:44:20] key g pressed 
+ [2025-06-15 17:44:20] 'g' released
+ [2025-06-15 17:44:20] key g pressed 
+ [2025-06-15 17:44:20] 'g' released
+ [2025-06-15 17:44:20] key e pressed 
+ [2025-06-15 17:44:20] 'e' released
+ [2025-06-15 17:44:20] key r pressed 
+ [2025-06-15 17:44:20] 'r' released
+ [2025-06-15 17:44:24] special key Key.space pressed 
+ [2025-06-15 17:44:24] Key.space released
+ [2025-06-15 17:44:25] key - pressed 
+ [2025-06-15 17:44:25] '-' released
+ [2025-06-15 17:44:25] key - pressed 
+ [2025-06-15 17:44:25] '-' released
+ [2025-06-15 17:44:25] key p pressed 
+ [2025-06-15 17:44:25] 'p' released
+ [2025-06-15 17:44:26] key u pressed 
+ [2025-06-15 17:44:26] 'u' released
+ [2025-06-15 17:44:27] key b pressed 
+ [2025-06-15 17:44:27] 'b' released
+ [2025-06-15 17:44:27] key l pressed 
+ [2025-06-15 17:44:27] key i pressed 
+ [2025-06-15 17:44:27] 'l' released
+ [2025-06-15 17:44:27] 'i' released
+ [2025-06-15 17:44:28] key c pressed 
+ [2025-06-15 17:44:28] 'c' released
+ [2025-06-15 17:44:31] special key Key.enter pressed 
+ [2025-06-15 17:44:31] Key.enter released
+ [2025-06-15 17:47:42] special key Key.ctrl pressed 
+ [2025-06-15 17:47:43] key c pressed 
+ 
