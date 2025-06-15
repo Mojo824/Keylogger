@@ -9,9 +9,12 @@ with open("key.key", "rb") as f:
     key=f.read()
 fernet = Fernet(key)
 
-@app.route('/upload', methods=['POST'])
+@app.route('/upload', methods=['GET','POST'])
 def upload():
+    
     data = request.data
+    if not data :
+        return "No Data Received"
     try:
         decrypted = fernet.decrypt(data).decode()
         print(f"[{datetime.datetime.now()}] Log received:\n{decrypted}")
@@ -21,6 +24,6 @@ def upload():
     except Exception as e:
         print("Decryption failed:", e)
         return "Error", 400
-
+        
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=5000)
